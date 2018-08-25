@@ -2,7 +2,5 @@
 
 namespace OpenSourcePortal
 {
-    public class Class1
-    {
-    }
+    
 }

@@ -2,7 +2,7 @@
 
 namespace OpenSourcePortal
 {
-    public class Class1
+    public class Client
     {
     }
 }
